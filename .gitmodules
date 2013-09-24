@@ -1,0 +1,6 @@
+[submodule "monit"]
+	path = monit
+	url = git@github.com:gon/chef-monit.git
+[submodule "redis"]
+	path = redis
+	url = git@github.com:gon/redisio.git
