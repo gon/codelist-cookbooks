@@ -7,3 +7,6 @@
 [submodule "ulimit"]
 	path = ulimit
 	url = git@github.com:gon/chef-ulimit.git
+[submodule "redisio"]
+	path = redisio
+	url = git@github.com:brianbianco/redisio.git
