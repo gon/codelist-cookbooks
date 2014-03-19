@@ -5,7 +5,7 @@ license           "MIT"
 description       "Installs openjdk"
 version           "0.1.0"
 
-recipe "openjdk", "Installs Java Development"
+recipe "openjdk::default", "Installs the Java Development Kit"
 
 %w[ubuntu debian redhat centos scientific fedora suse amazon].each do |os|
   supports os
