@@ -28,6 +28,6 @@ directory "/etc/profile.d" do
 end
 
 file "/etc/profile.d/jdk.sh" do
-  content "export JAVA_HOME=#{node['java']['java_home']}"
+  content "export JAVA_HOME=/usr/lib/jvm/java-openjdk"
   mode 00755
 end
