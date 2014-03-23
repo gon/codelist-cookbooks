@@ -10,3 +10,6 @@
 [submodule "redisio"]
 	path = redisio
 	url = git@github.com:brianbianco/redisio.git
+[submodule "opsworks_custom_env"]
+	path = opsworks_custom_env
+	url = git@github.com:gon/opsworks_custom_env.git
