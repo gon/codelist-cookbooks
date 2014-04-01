@@ -13,3 +13,6 @@
 [submodule "opsworks_custom_env"]
 	path = opsworks_custom_env
 	url = git@github.com:gon/opsworks_custom_env.git
+[submodule "sqlite"]
+	path = sqlite
+	url = git@github.com:opscode-cookbooks/sqlite.git
